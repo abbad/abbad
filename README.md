@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+
+- I am currently at Broadway.com enhancing the existing systems infrastructure/code until the Covid-19 pandamic is over. 
+
+
 <!--
 **abbad/abbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
