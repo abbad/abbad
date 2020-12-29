@@ -2,8 +2,6 @@
 
 
 
-- I am currently at Broadway.com enhancing the existing systems infrastructure/code, and enhancing the UI/UX of our existing pages. 
-
 
 <!--
 **abbad/abbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
